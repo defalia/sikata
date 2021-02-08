@@ -1,0 +1,15 @@
+Error :
+- nama di tiap akun baru belum masuk
+- nim registrasi kp(11) sama home(9) beda. Harusnya 10
+- nama dosen pembimbing kp blm masuk di rekap\
+- nim registrasi ta & kp sama semua
+
+Fitur Tambahan :
+- Tambah tabel dosen, paper
+- Pembatasan dosbing kp (8) & TA (8)
+- Tambah dosen di super admin. (NIP, Nama, Program Studi, Jabatan Fungsional)
+- Upload paper masukin NIM dan SK TA, paper harus pdf, preview paper, bisa filter per prodi
+- Yang verifikasi paper kaprodi aja
+- cetak rekap kp & ta excel
+
+http://www.radixtouch.in/templates/admin/otika/source/light/index.html
