@@ -214,7 +214,6 @@ class Kaprodi extends CI_Controller
 			// redirect to registrasi ta page
 			redirect('kaprodi/ta');
 		}
-
 		// Set registrasi ta data
 		$newRegistrasi = array(
 			'status_registrasi' => 'Telah disetujui oleh Kaprodi',
