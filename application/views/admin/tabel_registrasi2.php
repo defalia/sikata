@@ -23,7 +23,7 @@
 							<?php foreach ($registrasi as $key): ?>
 					 			<tr>
 					 				<td><?php echo $no; ?></td>
-					 				<td><?php echo $key['nama_mhs'] ?></td>
+					 				<td><?php print_r($key['nama_mhs']) ?></td>
 					 				<td><?php echo $key['nim_mhs'] ?></td>
 					 				<td><?php echo $key['nama_prodi'] ?></td>
 					 				<td><?php echo $key['tahun'] ?></td>
